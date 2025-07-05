@@ -1,16 +1,36 @@
-# bkash_payment
+# 📲 bKash Payment Gateway Integration for Flutter
 
-A new Flutter project.
+A Flutter package that integrates the **bKash Payment Gateway** using a native WebView-based checkout UI. Perfect for Bangladeshi apps that need seamless mobile transactions via bKash.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🖼️ Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+| Payment Method Selection | Selected Method | bKash Web Checkout |
+|--------------------------|------------------|---------------------|
+| ![Screenshot1](https://raw.githubusercontent.com/eastodev288/Bkash-Payment-Gateway/main/screenshots/screen1.jpg) | ![Screenshot2](https://raw.githubusercontent.com/eastodev288/Bkash-Payment-Gateway/main/screenshots/screen2.jpg) | ![Screenshot3](https://raw.githubusercontent.com/eastodev288/Bkash-Payment-Gateway/main/screenshots/screen3.jpg) |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> 📌 *Make sure to upload the 3 screenshots to a `screenshots/` folder in your GitHub repo.*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Features
+
+- Clean Flutter checkout UI
+- WebView-based bKash gateway
+- Tokenized payment supported
+- Custom API endpoint integration
+- Works with sandbox and live credentials
+
+---
+
+## 📦 Installation
+
+Add this to your `pubspec.yaml`:
+
+```yaml
+dependencies:
+  bkash_payment:
+    git:
+      url: https://github.com/eastodev288/Bkash-Payment-Gateway.git
+      path: bkash_payment
