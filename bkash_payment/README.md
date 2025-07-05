@@ -8,7 +8,7 @@ A Flutter package that integrates the **bKash Payment Gateway** using a native W
 
 | Payment Method Selection | Selected Method | bKash Web Checkout |
 |--------------------------|------------------|---------------------|
-| ![Screenshot1](https://raw.githubusercontent.com/eastodev288/Bkash-Payment-Gateway/bkash_payment/assets/screenshorts/screenshort_1.jpg) | ![Screenshot2](https://raw.githubusercontent.com/eastodev288/Bkash-Payment-Gateway/bkash_payment/assets/screenshorts/screenshort_2.jpg) | ![Screenshot3](https://raw.githubusercontent.com/eastodev288/Bkash-Payment-Gateway/bkash_payment/assets/screenshorts/screenshort_3.jpg) |
+| ![Screenshot1](https://github.com/eastodev288/Bkash-Payment-Gateway/blob/main/bkash_payment/assets/screenshorts/screenshort_1.jpg) | ![Screenshot2](https://github.com/eastodev288/Bkash-Payment-Gateway/blob/main/bkash_payment/assets/screenshorts/screenshort_2.jpg) | ![Screenshot3](https://github.com/eastodev288/Bkash-Payment-Gateway/blob/main/bkash_payment/assets/screenshorts/screenshort_3.jpg) |
 
 > 📌 *Make sure to upload the 3 screenshots to a `screenshots/` folder in your GitHub repo.*
 
